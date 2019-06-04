@@ -9,6 +9,6 @@ Running instructions:
 
   Examples:
   
-  java -jar DNSlookup.jar 192.197.97.190 www.cnn.com     
+  java -jar DNSlookup.jar 192.197.97.190 www.cs.ubc.ca 
   
-  java -jar DNSlookup.jar 192.197.97.190 www.cnn.com -t  
+  java -jar DNSlookup.jar 192.197.97.190 www.cs.ubc.ca -t  
