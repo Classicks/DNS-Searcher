@@ -1,6 +1,4 @@
-/**
- * @author Gurjot and Sean
- */
+
 public class Resource {
 
 	private String name, data;
